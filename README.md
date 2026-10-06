@@ -24,7 +24,7 @@ The key benefits of using APIGatewayMax include:
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/harutosati/APIGatewayMax.git`
+1. Clone the repository: `git clone https://github.com/centxyz/APIGatewayMax.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the test suite: `pytest`
 
@@ -41,4 +41,4 @@ Contributions are welcome. Open an issue for bugs or feature requests, or submit
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/harutosati/APIGatewayMax/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/centxyz/APIGatewayMax/blob/main/LICENSE) file for details.
