@@ -1,7 +1,7 @@
 {
   "name": "apigatewaymax",
   "version": "1.0.0",
-  "description": "APIGatewayMax - A powerful JavaScript application",
+  "description": "APIGatewayMax JavaScript starter processor with retry scaffolding",
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js",
