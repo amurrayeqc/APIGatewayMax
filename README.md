@@ -1,8 +1,8 @@
-# APIGatewayMax
+# RouteWeaver
 
-[![CI](https://github.com/centxyz/APIGatewayMax/actions/workflows/ci.yml/badge.svg)](https://github.com/centxyz/APIGatewayMax/actions/workflows/ci.yml)
+[![CI](https://github.com/centxyz/RouteWeaver/actions/workflows/ci.yml/badge.svg)](https://github.com/centxyz/RouteWeaver/actions/workflows/ci.yml)
 
-APIGatewayMax is a configurable HTTP reverse proxy for routing requests across backend services. It provides longest-prefix matching, round-robin balancing, bounded retries, timeouts, circuit breakers, per-client rate limits, request IDs, and health metrics without requiring an external control plane.
+RouteWeaver is a configurable HTTP reverse proxy for routing requests across backend services. It provides longest-prefix matching, round-robin balancing, bounded retries, timeouts, circuit breakers, per-client rate limits, request IDs, and health metrics without requiring an external control plane.
 
 ## Features
 
@@ -20,8 +20,8 @@ APIGatewayMax is a configurable HTTP reverse proxy for routing requests across b
 ## Install
 
 ```bash
-git clone https://github.com/centxyz/APIGatewayMax.git
-cd APIGatewayMax
+git clone https://github.com/centxyz/RouteWeaver.git
+cd RouteWeaver
 npm install
 npm test
 ```
