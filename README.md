@@ -1,5 +1,7 @@
 # APIGatewayMax
 
+[![CI](https://github.com/centxyz/APIGatewayMax/actions/workflows/ci.yml/badge.svg)](https://github.com/centxyz/APIGatewayMax/actions/workflows/ci.yml)
+
 APIGatewayMax is a configurable HTTP reverse proxy for routing requests across backend services. It provides longest-prefix matching, round-robin balancing, bounded retries, timeouts, circuit breakers, per-client rate limits, request IDs, and health metrics without requiring an external control plane.
 
 ## Features
