@@ -67,3 +67,9 @@ The suite verifies routing precedence, balancing, safe retries, circuit recovery
 ## License
 
 MIT © cent
+
+## Current limitations
+
+- Configuration is local and static; there is no distributed control plane or automatic service discovery.
+- Rate limits and circuit-breaker state are process-local and are not shared across replicas.
+- TLS termination, authentication, and edge DDoS protection must be provided separately.
